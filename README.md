@@ -59,6 +59,6 @@ This project focuses on **time series forecasting** to predict coffee shop sales
   ## 📊 Model Predictions
 Below is a visualization of the actual vs. predicted sales:
 
-![Model Predictions](model predictions.png)
+![Model Predictions](Model%20prediction.png)
 
 
